@@ -1,0 +1,9 @@
+**Exercício de Revisão para Prova de 01/10**
+
+- Criar o repositório para hospedar o projeto do TCC (GITHUB) ✔
+- Projeto deverá ter uma descrição no README.MD com uma breve descrição do projeto, 
+  com uma apresentação sua e o link do seu Linkedin(GITHUB) ✔
+- Preencha a descrição e topicos do projeto. (GITHUB) ✔
+- Seu repositório deverá ter um site estático para demonstração do projeto, na URL: https://seu_usuario.github.io/repo (PC) 
+- A estrutura das branchs deverá conter: back-end, front-end, documentation e site. (PC) ✔
+- Cada ramo deverá ter o seu próprio conteúdo respectivo. ✔
