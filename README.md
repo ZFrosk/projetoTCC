@@ -1,2 +1,2 @@
 # projetoTCC
-Projeto do TCC e arquivos hospedado no Github
+Projeto 6º Semestre do TCC hospedado no Github, contendo os arquivos necessários do App e Website.
